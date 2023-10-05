@@ -32,10 +32,10 @@
   },
    "imageSettings":{
        "imageTracing":{
-           "enableImageTracingPR": false,
-           "addRepositoryCoordinate": false,
-           "addDockerfilePath": false,
-           "addMendIdentifier": false
+           "enableImageTracingPR": true,
+           "addRepositoryCoordinate": true,
+           "addDockerfilePath": true,
+           "addMendIdentifier": true
        }
    }
 }
